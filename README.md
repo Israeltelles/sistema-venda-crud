@@ -15,4 +15,4 @@ Projeto em desenvolvimento!
 1. Baixe e instale o [XAMPP](https://www.apachefriends.org/).
 2. Coloque os arquivos deste repositório dentro da pasta `htdocs`.
 3. Importe o arquivo `vendas.sql` no phpMyAdmin.
-4. Acesse `http://localhost/nome-do-projeto`
+4. Acesse `http://localhost/Site-vendas`
